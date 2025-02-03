@@ -20,6 +20,9 @@ Variables considered are:
 - Occupation
 - Race
 - Sex
+- Capital gain/loss
+- Hours per week
+- Native country
 
 ## Training Data
 
